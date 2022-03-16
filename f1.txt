@@ -4,3 +4,4 @@ e
 rr
 rr
 rr
+b2에서 f1수정
